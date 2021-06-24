@@ -7,6 +7,7 @@
         letter-spacing: 1px;
         border-radius: 0;
         text-shadow: none;
+        background-image:none;
 }
 
 .payment_form-mh > .pull-left {
