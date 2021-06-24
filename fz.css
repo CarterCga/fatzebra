@@ -32,3 +32,10 @@
 .payment-input.card-number {
         max-width: 400px;
 }
+
+.payment-input.expiry-date {
+        max-width: 200px;
+}
+.payment-input.security-code {
+        max-width: 180px;
+}
