@@ -3,6 +3,8 @@
         border: 1px solid #00AC08 !important;
         float: none;
         min-width: 390px;
+        font-size: 20px;
+        letter-spacing: 1px;
 }
 
 .payment_form-mh > .pull-left {
