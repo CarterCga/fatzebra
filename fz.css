@@ -6,6 +6,7 @@
         font-size: 20px;
         letter-spacing: 1px;
         border-radius: 0;
+        text-shadow: none;
 }
 
 .payment_form-mh > .pull-left {
