@@ -24,3 +24,11 @@
 .payment-input {
         border-radius: 0 !important;
 }
+
+.payment-input.card-holder {
+        max-width: 400px;
+}
+
+.payment-input.card-number {
+        max-width: 400px;
+}
