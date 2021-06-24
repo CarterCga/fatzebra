@@ -5,6 +5,7 @@
         min-width: 390px;
         font-size: 20px;
         letter-spacing: 1px;
+        border-radius: 0;
 }
 
 .payment_form-mh > .pull-left {
