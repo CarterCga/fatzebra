@@ -17,3 +17,7 @@
         float:none;
         margin-left: 20px;
 }
+
+.payment-input {
+        border-radius: 0;
+}
