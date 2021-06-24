@@ -33,3 +33,10 @@
         max-width: 400px;
 }
 
+body.v2 #payment_request_expiry_date, body.payment #payment_request_expiry_date {
+        width: 200px;
+}
+
+body.v2 #payment_request_security_code, body.payment #payment_request_security_code {
+        width: 175px;
+}
